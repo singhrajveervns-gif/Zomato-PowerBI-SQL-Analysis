@@ -130,5 +130,39 @@ The current dashboard relies on default cross-filtering across visuals. Ideas fo
 
 ## 👤 Author
 
-Rajveer Singh — IIT (BHU)
-Portfolio project for data analytics / business intelligence placements.
+Rajveer Singh 
+Aspiring Data Analyst
+
+- SQL
+- Power BI
+- Excel
+- Python
+## 📊 Dashboard Preview
+
+### Executive Dashboard
+
+![Executive Dashboard](SCREEN SHOTS/Executive_Overview.png)
+
+---
+
+### Customer Insights
+
+![Customer Insights](SCREEN SHOTS/Customer_Insights.png)
+
+---
+
+### Restaurant Insights
+
+![Restaurant Insights](SCREEN SHOTS/Restaurant_Insights.png)
+
+---
+
+### Delivery & Rider Operations
+
+![Delivery & Rider Operations](SCREEN SHOTS/Delivery_Rider_Ops.png)
+
+---
+
+### Menu & Demand Insights
+
+![Menu & Demand Insights](SCREEN SHOTS/Menu_Demand_Insights.png)
