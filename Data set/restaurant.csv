@@ -1,0 +1,201 @@
+restaurant_id,restaurant_name,city,opening_hours
+1,Ramesh's Kitchens,Indore,11:00 AM - 11:00 PM
+2,Sapphire Point,Bengaluru,8:00 AM - 10:00 PM
+3,The Dhaba Diner,Delhi,12:00 PM - 12:00 AM
+4,Meera's Kitchen,Mumbai,9:00 AM - 10:00 PM
+5,Crimson Deck,Jaipur,12:00 PM - 12:00 AM
+6,Isha's Hub,Hyderabad,8:00 AM - 10:00 PM
+7,The Dhaba Junction,Hyderabad,12:00 PM - 11:00 PM
+8,Vintage Dining,Nagpur,11:30 AM - 11:30 PM
+9,Banyan Swaad Kitchen & Bar,Indore,12:00 PM - 11:00 PM
+10,Emerald Restro,Bengaluru,10:00 AM - 11:00 PM
+11,Baati,Delhi,12:00 PM - 11:00 PM
+12,Swadishth,Chandigarh,11:00 AM - 11:00 PM
+13,The Regal Dining,Nagpur,9:00 AM - 10:00 PM
+14,Nawab Lounge,Delhi,12:00 PM - 11:00 PM
+15,Moonlight Diner,Chennai,11:30 AM - 11:30 PM
+16,Ashok's Bakehouse,Lucknow,10:00 AM - 11:00 PM
+17,Sunset Jasmine Food Co,Surat,10:00 AM - 11:00 PM
+18,Crimson Restro,Chandigarh,10:00 AM - 11:00 PM
+19,Malabar Platter,Chennai,12:00 PM - 11:00 PM
+20,Rustic Table,Pune,11:00 AM - 11:00 PM
+21,Sunset Corner,Indore,8:00 AM - 10:00 PM
+22,Dastarkhwan,Surat,10:00 AM - 11:00 PM
+23,Nandini's Roastery,Bengaluru,12:00 PM - 11:00 PM
+24,Peepal Lounge,Bhopal,8:00 AM - 10:00 PM
+25,The Banyan Terrace,Surat,11:00 AM - 11:00 PM
+26,Biryani Blues,Chandigarh,9:00 AM - 10:00 PM
+27,Isha's Cafe,Chennai,9:00 AM - 10:00 PM
+28,Meera's Cafe,Bhopal,8:00 AM - 10:00 PM
+29,The Green Table,Surat,12:00 PM - 11:00 PM
+30,Emerald Thali House,Bengaluru,11:00 AM - 11:00 PM
+31,Green Emerald Roastery,Indore,12:00 PM - 12:00 AM
+32,Chaat Street,Indore,12:00 PM - 12:00 AM
+33,Nawab Turmeric Grill,Kolkata,11:00 AM - 11:00 PM
+34,Karahi Grill,Jaipur,12:00 PM - 11:00 PM
+35,The Swaad Tiffin,Chandigarh,9:00 AM - 10:00 PM
+36,Pooja's Cafe,Nagpur,8:00 AM - 10:00 PM
+37,Cardamom Chulha Courtyard,Delhi,12:00 PM - 11:00 PM
+38,Dilli Platter,Ahmedabad,12:00 PM - 12:00 AM
+39,Banyan Dining,Chandigarh,9:00 AM - 10:00 PM
+40,Ritu's Diner,Nagpur,11:00 AM - 11:00 PM
+41,Mirch,Chennai,12:00 PM - 11:00 PM
+42,Handi Royal Lounge,Mumbai,8:00 AM - 10:00 PM
+43,Saffron Bamboo Brew House,Nagpur,10:00 AM - 11:00 PM
+44,Heritage Red House,Chandigarh,8:00 AM - 10:00 PM
+45,Banyan Terrace,Lucknow,10:00 AM - 11:00 PM
+46,Regal Deck,Nagpur,10:00 AM - 11:00 PM
+47,The Angeethi Thali House,Bhopal,9:00 AM - 10:00 PM
+48,Skyline Feast,Ahmedabad,9:00 AM - 10:00 PM
+49,Ritu's Hub,Bhopal,11:30 AM - 11:30 PM
+50,Banyan Lounge,Mumbai,10:00 AM - 11:00 PM
+51,Handi Spice Bakehouse,Delhi,8:00 AM - 10:00 PM
+52,Zaffran,Nagpur,12:00 PM - 12:00 AM
+53,Sunset Tiffin,Surat,12:00 PM - 11:00 PM
+54,Riverside Golden Bistro,Chennai,12:00 PM - 12:00 AM
+55,Malabar Diner,Hyderabad,12:00 PM - 12:00 AM
+56,The Punjab Restro,Kolkata,8:00 AM - 10:00 PM
+57,Suresh's Point,Bhopal,12:00 PM - 12:00 AM
+58,Isha's Corner,Hyderabad,10:00 AM - 11:00 PM
+59,Swaad Hub,Mumbai,12:00 PM - 12:00 AM
+60,Amber Riverside Table,Lucknow,10:00 AM - 11:00 PM
+61,Sunrise Bawarchi Tiffin,Indore,8:00 AM - 10:00 PM
+62,Priya's Cafe,Delhi,9:00 AM - 10:00 PM
+63,Red Kitchen,Jaipur,10:00 AM - 11:00 PM
+64,Anjali's Bakes,Hyderabad,12:00 PM - 12:00 AM
+65,Mysore Food Co,Lucknow,12:00 PM - 11:00 PM
+66,Anjali's Diner,Nagpur,12:00 PM - 11:00 PM
+67,White Mysore Deck,Delhi,8:00 AM - 10:00 PM
+68,Tehzeeb Hub,Kolkata,12:00 PM - 11:00 PM
+69,Manoj's Bakes,Surat,8:00 AM - 10:00 PM
+70,Dosa Junction,Kolkata,8:00 AM - 10:00 PM
+71,Tashan,Hyderabad,10:00 AM - 11:00 PM
+72,Rustic Brew House,Ahmedabad,10:00 AM - 11:00 PM
+73,Pani Puri House,Chennai,12:00 PM - 11:00 PM
+74,The Rustic Bistro,Ahmedabad,11:30 AM - 11:30 PM
+75,Dhoom,Mumbai,8:00 AM - 10:00 PM
+76,The Copper Cafe,Delhi,11:30 AM - 11:30 PM
+77,Karahi Terrace,Kolkata,12:00 PM - 11:00 PM
+78,Marigold Grill,Chandigarh,12:00 PM - 11:00 PM
+79,Bawarchi Rustic Bistro,Kolkata,9:00 AM - 10:00 PM
+80,Isha's Feast,Bhopal,11:30 AM - 11:30 PM
+81,Coastal Thali House,Kolkata,8:00 AM - 10:00 PM
+82,The Golden Corner,Bengaluru,10:00 AM - 11:00 PM
+83,Rivaaz,Mumbai,12:00 PM - 12:00 AM
+84,Kesar Tiffin,Indore,11:00 AM - 11:00 PM
+85,Moonlight Kitchen,Lucknow,12:00 PM - 11:00 PM
+86,Regal Nawab Express,Bengaluru,9:00 AM - 10:00 PM
+87,Kebab Trail,Chandigarh,10:00 AM - 11:00 PM
+88,The Tehzeeb Point,Delhi,8:00 AM - 10:00 PM
+89,Emerald Bistro,Delhi,12:00 PM - 12:00 AM
+90,Isha's Bistro,Lucknow,9:00 AM - 10:00 PM
+91,The Bombay Bistro,Kolkata,8:00 AM - 10:00 PM
+92,Karan's Thali House,Jaipur,11:00 AM - 11:00 PM
+93,Banyan Bombay Deck,Surat,8:00 AM - 10:00 PM
+94,Marigold Diner,Chennai,12:00 PM - 11:00 PM
+95,Nandini's Platter,Ahmedabad,11:00 AM - 11:00 PM
+96,Bay Leaf Tiffin,Ahmedabad,12:00 PM - 12:00 AM
+97,Manoj's Bakehouse,Delhi,12:00 PM - 12:00 AM
+98,Malabar Junction,Chennai,10:00 AM - 11:00 PM
+99,Manoj's Deck,Bhopal,10:00 AM - 11:00 PM
+100,Chatkara,Bengaluru,12:00 PM - 11:00 PM
+101,Green Cafe,Lucknow,11:30 AM - 11:30 PM
+102,Clove Brew House,Surat,11:30 AM - 11:30 PM
+103,Rajesh's Kitchen & Bar,Bhopal,8:00 AM - 10:00 PM
+104,Mysore Saffron Terrace,Chennai,9:00 AM - 10:00 PM
+105,Manoj's House,Bengaluru,11:00 AM - 11:00 PM
+106,Emerald Deck,Hyderabad,8:00 AM - 10:00 PM
+107,Old Town Tiffin,Surat,8:00 AM - 10:00 PM
+108,Silver Eatery,Ahmedabad,11:00 AM - 11:00 PM
+109,Bawarchi Feast,Surat,12:00 PM - 11:00 PM
+110,Neha's Bakehouse,Mumbai,11:00 AM - 11:00 PM
+111,Handi Saffron Brew House,Bengaluru,8:00 AM - 10:00 PM
+112,The Skyline Thali House,Indore,12:00 PM - 11:00 PM
+113,Suresh's Grill,Delhi,9:00 AM - 10:00 PM
+114,Copper Kitchens,Mumbai,11:30 AM - 11:30 PM
+115,Vikram's Express,Jaipur,10:00 AM - 11:00 PM
+116,Sanjay's Hub,Mumbai,11:00 AM - 11:00 PM
+117,Vikram's Deck,Bhopal,11:00 AM - 11:00 PM
+118,Dilli Coastal Roastery,Surat,9:00 AM - 10:00 PM
+119,White Restro,Bhopal,11:30 AM - 11:30 PM
+120,Regal Corner,Indore,10:00 AM - 11:00 PM
+121,The Swaad Lounge,Nagpur,11:30 AM - 11:30 PM
+122,Mysore Tiffin,Mumbai,10:00 AM - 11:00 PM
+123,Suresh's Lounge,Nagpur,8:00 AM - 10:00 PM
+124,Sunrise Bakes,Bengaluru,11:30 AM - 11:30 PM
+125,Divya's Point,Chandigarh,9:00 AM - 10:00 PM
+126,Chai New Town Hub,Hyderabad,11:30 AM - 11:30 PM
+127,Nandini's House,Chennai,11:30 AM - 11:30 PM
+128,Elaichi,Mumbai,8:00 AM - 10:00 PM
+129,Chatpata Ginger Thali House,Pune,11:00 AM - 11:00 PM
+130,Banyan Lotus Tiffin,Pune,8:00 AM - 10:00 PM
+131,Peshawri,Surat,11:30 AM - 11:30 PM
+132,The White Dining,Mumbai,9:00 AM - 10:00 PM
+133,Silver Heritage Corner,Lucknow,11:00 AM - 11:00 PM
+134,The Copper Table,Lucknow,12:00 PM - 11:00 PM
+135,Vaango Sapphire Hub,Kolkata,12:00 PM - 12:00 AM
+136,The Nawab Eatery,Kolkata,12:00 PM - 12:00 AM
+137,Sapphire Masala Brew House,Mumbai,8:00 AM - 10:00 PM
+138,White Grill,Jaipur,11:30 AM - 11:30 PM
+139,Vintage Old Town Roastery,Pune,12:00 PM - 11:00 PM
+140,Nandini's Feast,Lucknow,11:00 AM - 11:00 PM
+141,Ramesh's House,Jaipur,11:00 AM - 11:00 PM
+142,Regal Lotus Bakes,Kolkata,8:00 AM - 10:00 PM
+143,Regal Curry House,Bengaluru,10:00 AM - 11:00 PM
+144,Pooja's Kitchens,Surat,8:00 AM - 10:00 PM
+145,The Rasoi Bakehouse,Lucknow,11:00 AM - 11:00 PM
+146,Bamboo Starlit Tiffin,Chandigarh,9:00 AM - 10:00 PM
+147,Vikram's Bistro,Hyderabad,12:00 PM - 11:00 PM
+148,The Spice Deck,Surat,11:00 AM - 11:00 PM
+149,Karahi Amber Eatery,Ahmedabad,8:00 AM - 10:00 PM
+150,Sanjay's Bakehouse,Ahmedabad,11:30 AM - 11:30 PM
+151,Skyline Deck,Chennai,12:00 PM - 12:00 AM
+152,Papad,Delhi,11:30 AM - 11:30 PM
+153,Clove Hub,Hyderabad,11:30 AM - 11:30 PM
+154,Poha Point,Mumbai,9:00 AM - 10:00 PM
+155,Skyline Kesar Lounge,Lucknow,11:30 AM - 11:30 PM
+156,The Skyline Express,Kolkata,8:00 AM - 10:00 PM
+157,Blue Terrace,Indore,8:00 AM - 10:00 PM
+158,Chutney,Kolkata,10:00 AM - 11:00 PM
+159,Vaango Dining,Bhopal,11:30 AM - 11:30 PM
+160,Peepal Malabar Express,Hyderabad,10:00 AM - 11:00 PM
+161,Vada Pav Corner,Mumbai,12:00 PM - 12:00 AM
+162,Golden Riverside Cafe,Ahmedabad,10:00 AM - 11:00 PM
+163,The Turmeric Kitchen,Jaipur,12:00 PM - 12:00 AM
+164,Vaango Bakehouse,Lucknow,11:30 AM - 11:30 PM
+165,The Mysore Terrace,Chandigarh,12:00 PM - 12:00 AM
+166,Namak,Indore,11:30 AM - 11:30 PM
+167,Amit's Courtyard,Chennai,11:30 AM - 11:30 PM
+168,Rangrezz,Nagpur,11:30 AM - 11:30 PM
+169,Ramesh's Tiffin,Surat,10:00 AM - 11:00 PM
+170,The Copper Restro,Delhi,8:00 AM - 10:00 PM
+171,The Tawa Terrace,Chennai,11:00 AM - 11:00 PM
+172,Silver Thali House,Delhi,10:00 AM - 11:00 PM
+173,The Nawab Point,Kolkata,8:00 AM - 10:00 PM
+174,The Handi Lounge,Delhi,12:00 PM - 11:00 PM
+175,Rajesh's Bakehouse,Jaipur,12:00 PM - 11:00 PM
+176,The Angeethi Junction,Hyderabad,11:30 AM - 11:30 PM
+177,The Khazana Tiffin,Bhopal,11:30 AM - 11:30 PM
+178,Vaango Terrace,Chandigarh,11:30 AM - 11:30 PM
+179,Silver Feast,Ahmedabad,9:00 AM - 10:00 PM
+180,Karan's Courtyard,Nagpur,12:00 PM - 11:00 PM
+181,Vikram's Terrace,Indore,8:00 AM - 10:00 PM
+182,Urban Cafe,Bhopal,10:00 AM - 11:00 PM
+183,Green Tiffin,Chennai,12:00 PM - 11:00 PM
+184,Ginger Food Co,Kolkata,11:00 AM - 11:00 PM
+185,Zaika Junction,Chandigarh,12:00 PM - 11:00 PM
+186,Junoon,Jaipur,9:00 AM - 10:00 PM
+187,The Starlit Tiffin,Lucknow,8:00 AM - 10:00 PM
+188,The Tandoor Platter,Surat,12:00 PM - 11:00 PM
+189,Moonlight Andaz Kitchen,Bengaluru,9:00 AM - 10:00 PM
+190,Skyline Starlit Platter,Pune,10:00 AM - 11:00 PM
+191,Zaika Karahi Kitchens,Pune,11:30 AM - 11:30 PM
+192,The Sapphire Courtyard,Nagpur,11:30 AM - 11:30 PM
+193,Rasoi Courtyard,Chandigarh,9:00 AM - 10:00 PM
+194,Red Brew House,Indore,12:00 PM - 12:00 AM
+195,Amit's Kitchens,Hyderabad,8:00 AM - 10:00 PM
+196,Maharaja Thali House,Nagpur,9:00 AM - 10:00 PM
+197,Karahi Kitchen,Chandigarh,9:00 AM - 10:00 PM
+198,Masala Malabar Roastery,Hyderabad,10:00 AM - 11:00 PM
+199,Tadka,Lucknow,10:00 AM - 11:00 PM
+200,Blue Hub,Nagpur,11:00 AM - 11:00 PM
