@@ -67,22 +67,22 @@ All SQL work lives in [`SQL`](./SQL) and is final/complete:
 The dashboard — [`Power BI/Zomato_Analysis.pbix`](./Power%20BI/Zomato_Analysis.pbix) — turns the SQL analysis into an interactive, executive-ready tool with **5 pages**:
 
 ### 1. Executive Overview
-High-level KPIs and trends for a first-glance view of the business: total revenue, total orders, average order value, completion rate, and cancellation rate, alongside a monthly revenue trend, revenue by city, top restaurants by revenue, and an order status breakdown.
+KPI cards for Total Revenue, Total Orders, Average Order Value, Completion Rate %, and Cancellation Rate %, alongside a monthly revenue trend, revenue by city, a top-10 restaurants by revenue bar chart, a full restaurants summary table, and an order status breakdown donut.
 
 ![Executive Overview](./SCREEN%20SHOTS/Executive_Overview.png)
 
 ### 2. Customer Insights
-Customer Lifetime Value, high-value customers (>₹10K), churned customers, customers with cancelled orders, and the top customers by revenue — built to answer "who are our best and most at-risk customers."
+KPI cards for Cancelled Orders, Completion Rate %, Average Order Value, Churned Customers, and Out for Delivery Orders, alongside Customer Lifetime Value, high-value customers (>₹10K), customers with cancelled orders, and the top customers by revenue — built to answer "who are our best and most at-risk customers."
 
 ![Customer Insights](./SCREEN%20SHOTS/Customer_Insights.png)
 
 ### 3. Restaurant Insights
-Restaurant-level performance: revenue ranking, revenue by city, restaurants with the highest cancellation rates, restaurant count and average revenue per restaurant, and the most popular dishes by city.
+KPI cards for Restaurant Count, Average Revenue per Restaurant, Total Revenue, and Cancellation Rate %, alongside revenue ranking by restaurant, revenue by city, restaurants with the highest cancellation rates, and the most popular dishes by city.
 
 ![Restaurant Insights](./SCREEN%20SHOTS/Restaurant_Insights.png)
 
 ### 4. Delivery & Rider Ops
-Operational view of fulfillment: total riders, completed deliveries, undelivered orders, delivery success rate, top riders by delivery volume, delivery status breakdown, and restaurants with the most undelivered orders.
+KPI cards for Total Riders, Delivery Success Rate %, Completed Deliveries, and Undelivered Orders, alongside top riders by delivery volume, delivery status breakdown, and restaurants with the most undelivered orders.
 
 ![Delivery & Rider Ops](./SCREEN%20SHOTS/Delivery_Rider_Ops.png)
 
