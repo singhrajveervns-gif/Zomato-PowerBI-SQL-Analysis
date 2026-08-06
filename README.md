@@ -32,6 +32,15 @@ The source data lives in [`Data set`](./Data%20set) as five CSV files, each corr
 
 **Relationships:** `orders` links to `customers` and `restaurants`; `deliveries` links to `orders` and `riders`.
 
+### Entity-Relationship Diagram
+
+![ER Diagram](./SCREEN%20SHOTS/ER_Diagram.png)
+
+- `customers` (1) → `orders` (N) via `customer_id`
+- `restaurants` (1) → `orders` (N) via `restaurant_id`
+- `orders` (1) → `deliveries` (N) via `order_id`
+- `riders` (1) → `deliveries` (N) via `rider_id`
+
 A full schema + data dump is available in [`BACK up/Zomato_sql_project_backup_sql.sql`](./BACK%20up/Zomato_sql_project_backup_sql.sql) for anyone who wants to restore the database directly instead of loading from CSV.
 
 ---
@@ -122,6 +131,7 @@ Zomato-PowerBI-SQL-Analysis
 │   └── Zomato_Analysis.pbix                # Power BI dashboard (5 pages)
 │
 ├── SCREEN SHOTS
+│   ├── ER_Diagram.png
 │   ├── Executive_Overview.png
 │   ├── Customer_Insights.png
 │   ├── Restaurant_Insights.png
